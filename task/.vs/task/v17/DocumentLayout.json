@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0421\u002B\u002B\\TaskForPI\\task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B806D3A6-1452-46F2-ACE3-5FEACA353466}|task\\task.vcxproj|C:\\\u0421\u002B\u002B\\TaskForPI\\task\\task\\task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B806D3A6-1452-46F2-ACE3-5FEACA353466}|task\\task.vcxproj|solutionrelative:task\\task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task.cpp",
+              "DocumentMoniker": "C:\\\u0421\u002B\u002B\\TaskForPI\\task\\task\\task.cpp",
+              "RelativeDocumentMoniker": "task\\task.cpp",
+              "ToolTip": "C:\\\u0421\u002B\u002B\\TaskForPI\\task\\task\\task.cpp",
+              "RelativeToolTip": "task\\task.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T22:29:12.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
